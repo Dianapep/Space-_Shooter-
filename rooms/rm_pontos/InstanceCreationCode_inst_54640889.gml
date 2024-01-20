@@ -1,0 +1,3 @@
+Texto = "Voltar";
+
+destino = rMenu;

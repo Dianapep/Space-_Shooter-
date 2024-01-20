@@ -1,0 +1,2 @@
+Texto = "JOGAR"
+destino = rJogo
